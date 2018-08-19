@@ -2,5 +2,5 @@ package com.android.myapplication;
 
 public class FourthActivity {
 
-    String name = " Razia";
+    String name = " Razia Sultana";
 }
